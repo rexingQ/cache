@@ -27,7 +27,7 @@
     "@actions/exec": "^1.0.1",
     "@actions/http-client": "^1.0.6",
     "@actions/io": "^1.0.1",
-    "uuid": "^3.4.0"
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@types/jest": "^24.0.13",
